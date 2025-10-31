@@ -1,8 +1,14 @@
-body {
+body{
     font-family: Arial, sans-serif;
-    background-color: purple;
+    background-color: black;
+    color: #333;
+    text-align: center;
+    padding-top: 50px;
 }
-h1 {
-    color: red;
+h1{
+    color: purple;
+}
+p{
+    color: white;
 }
 
