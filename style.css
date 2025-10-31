@@ -1,12 +1,12 @@
 body{
     font-family: Arial, sans-serif;
-    background-color: black;
+    background-color: grey;
     color: #333;
     text-align: center;
     padding-top: 50px;
 }
 h1{
-    color: purple;
+    color: green;
 }
 p{
     color: white;
